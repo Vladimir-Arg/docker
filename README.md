@@ -1,0 +1,1 @@
+![Скриншот из Postman](Screenshot_1.jpg)
